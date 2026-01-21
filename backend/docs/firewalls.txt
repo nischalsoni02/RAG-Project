@@ -1,0 +1,40 @@
+Firewalls and Network Security
+
+A firewall is a security system that monitors and controls incoming and outgoing network traffic based on predetermined security rules.
+
+How Firewalls Work:
+Firewalls act as a barrier between your trusted internal network and untrusted external networks like the internet. They examine data packets and decide whether to allow or block them.
+
+Types of Firewalls:
+1. Hardware Firewalls - Physical devices protecting entire networks
+2. Software Firewalls - Programs installed on individual computers
+3. Network Firewalls - Protect entire networks
+4. Host-based Firewalls - Protect individual devices
+
+Firewall Rules:
+Firewalls use rules to determine what traffic to allow:
+- Block all traffic by default
+- Allow only necessary connections
+- Filter based on IP addresses, ports, and protocols
+- Log suspicious activity
+
+Benefits of Firewalls:
+- Blocks unauthorized access
+- Prevents malware from spreading
+- Monitors network traffic
+- Protects against hackers
+- Controls what programs can access the network
+
+Best Practices:
+- Always enable your firewall
+- Keep firewall software updated
+- Configure rules based on your needs
+- Regularly review firewall logs
+- Use both hardware and software firewalls for maximum protection
+- Don't disable firewall to solve connectivity issues
+
+Common Firewall Ports:
+- Port 80: HTTP (web traffic)
+- Port 443: HTTPS (secure web traffic)
+- Port 22: SSH (secure shell)
+- Port 21: FTP (file transfer)

@@ -1,0 +1,41 @@
+Social Engineering Attacks
+
+Social engineering is the psychological manipulation of people to trick them into revealing confidential information or performing actions that compromise security.
+
+Common Social Engineering Techniques:
+1. Pretexting - Creating a fake scenario to obtain information
+2. Baiting - Offering something enticing to trick victims
+3. Tailgating - Following authorized people into restricted areas
+4. Quid Pro Quo - Offering a service in exchange for information
+5. Impersonation - Pretending to be someone else
+
+Real-World Examples:
+- A caller pretending to be from IT support asking for your password
+- A USB drive labeled "Employee Salaries" left in a parking lot
+- Someone claiming to be a delivery person asking to be let into the building
+- A fake tech support popup claiming your computer is infected
+
+Why Social Engineering Works:
+- Exploits human trust
+- Creates urgency or fear
+- Uses authority and intimidation
+- Takes advantage of people wanting to be helpful
+- Relies on lack of security awareness
+
+Protection Strategies:
+- Verify the identity of anyone requesting information
+- Never share passwords or sensitive data over phone or email
+- Be suspicious of urgent requests
+- Follow company security policies
+- Think before you click or respond
+- Report suspicious contacts to security team
+
+Red Flags:
+- Requests for sensitive information
+- Pressure to act quickly
+- Appeals to authority or fear
+- Offers that seem too good to be true
+- Requests to bypass normal procedures
+
+Training and Awareness:
+Regular security awareness training helps employees recognize and resist social engineering attacks.

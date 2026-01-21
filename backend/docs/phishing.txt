@@ -1,0 +1,22 @@
+Phishing Attacks
+
+Phishing is a type of cyber attack where attackers try to trick people into giving away sensitive information like passwords, credit card numbers, or personal data.
+
+How Phishing Works:
+Attackers send fake emails or messages that look like they come from trusted sources such as banks, companies, or government agencies. These messages often contain links to fake websites that look real.
+
+Common Signs of Phishing:
+1. Urgent or threatening language
+2. Requests for personal information
+3. Suspicious email addresses
+4. Spelling and grammar mistakes
+5. Unexpected attachments
+
+Protection Against Phishing:
+- Always verify the sender's email address
+- Never click on suspicious links
+- Use two-factor authentication
+- Keep your software updated
+- Report phishing attempts to your IT department
+
+Example: An attacker might send an email claiming to be from your bank, asking you to "verify your account" by clicking a link and entering your password. The link leads to a fake website that steals your credentials.
