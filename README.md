@@ -130,7 +130,7 @@ The frontend will start on `http://localhost:5173`
    - "What is an apple?"
    - You will get: "I don't know based on the provided documents."
 
-## How It Works (Simple Explanation)
+## How It Works
 
 ### 1. Loading Documents
 The system reads all `.txt` files from the `docs` folder.
