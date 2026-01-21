@@ -1,6 +1,6 @@
-# Cybersecurity Knowledge Assistant - Simple RAG Project
+# RAG-project-Nischal_Soni
 
-A beginner-friendly Retrieval-Augmented Generation (RAG) system that answers cybersecurity questions using only the provided documents.
+A Retrieval-Augmented Generation (RAG) system that answers cybersecurity questions using only the provided documents.
 
 ## What This Project Does
 
@@ -19,8 +19,8 @@ A beginner-friendly Retrieval-Augmented Generation (RAG) system that answers cyb
 
 ```
 project/
-├── backend/                  # Python backend
-│   ├── docs/                # Cybersecurity documents (7 files)
+├── backend/                  
+│   ├── docs/                
 │   │   ├── phishing.txt
 │   │   ├── malware.txt
 │   │   ├── passwords.txt
@@ -28,10 +28,10 @@ project/
 │   │   ├── social_engineering.txt
 │   │   ├── encryption.txt
 │   │   └── vpn.txt
-│   ├── main.py              # FastAPI server with RAG logic
-│   └── requirements.txt     # Python dependencies
-└── src/                     # React frontend
-    └── App.tsx              # Simple UI
+│   ├── main.py              
+│   └── requirements.txt     
+└── src/                     
+    └── App.tsx              
 ```
 
 ## Prerequisites
