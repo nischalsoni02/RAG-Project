@@ -184,4 +184,4 @@ This prevents LLaMA from using its training data.
 }
 ```
 
-### The responses are slow(taking 10-12 minutes for one question, so please wait till Loading... completes)
+### The responses are slow, so please wait till Loading... completes.
